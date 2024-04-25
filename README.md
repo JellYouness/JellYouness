@@ -11,7 +11,7 @@
 </p>
 
 <h4 align="center"> 
- Check My Portfolio: <a href="https://jellyouness.me" target="blank">jellyouness.me</a>
+--> Check My Portfolio: <a href="https://jellyouness.me" target="blank">jellyouness.me</a> <--
 </h4>
 
 <h3 align="center">Connect with me:</h3>
