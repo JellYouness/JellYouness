@@ -2,7 +2,7 @@
 <!-- ![MasterHead](./github-header-image.png) -->
 <h1 align="center">Hi, I'm JELLOULI Youness</h1>
 
-<h4 align="center">A Web Developer (Especially Front-End dev) from Morocco. I'm passionate about web development, I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact!</h4>
+<h4 align="center">A Web Developer (Especially Front-End dev) from Morocco. I'm passionate about web developmen. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact!</h4>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=JellYouness&label=Profile%20views&color=blueviolet&style=flat" alt="JellYouness" /> 
