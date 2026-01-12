@@ -17,7 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/youness-jellouli-35095423b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youness-jellouli-35095423b" height="30" width="40" /></a>
-<a href="https://instagram.com/cleiis__ynx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleiis__ynx" height="30" width="40" /></a>
+<a href="https://instagram.com/yns_jell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleiis__ynx" height="30" width="40" /></a>
 <a href="https://discord.gg/Younelo#9934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Younelo#9934" height="30" width="40" /></a>
 </p>
 
